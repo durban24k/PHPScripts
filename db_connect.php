@@ -17,4 +17,4 @@ if ($conn === false) {
 ?>
 
 <!-- /* Call this config script using the 
-"require_once("config.php");" method in the form.php file */ -->
+"require_once("db_connect.php");" method in the form.php file */ -->
