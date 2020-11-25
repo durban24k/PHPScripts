@@ -1,6 +1,5 @@
 <?php
 include_once 'keys.php';
-include_once 'functions.php';
 
 $input='1*Alfred*Wanjau*0712345678*1*';
 
